@@ -1,1 +1,1 @@
-# CS2---Trainer
+# CS2-Trainer
